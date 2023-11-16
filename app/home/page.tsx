@@ -12,6 +12,7 @@ export default function HomePage() {
         className="w-48"
       />
       <h1 className="text-white">
+        Trang chủ landing giới thiệu nền tảng kèm link đăng nhập/tạo tài khoản gốc ban đầu của tổ chức với Google/ Github xác minh.
         Edit this page on{" "}
         <InlineSnippet className="ml-2 bg-blue-900 text-blue-100">
           app/home/page.tsx

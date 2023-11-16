@@ -13,17 +13,17 @@ export default function LoginPage() {
         src="/logo.png"
       />
       <h1 className="mt-6 text-center font-cal text-3xl dark:text-white">
-        Platforms Starter Kit
+        Doop - Phần mềm quản lý bán hàng 
       </h1>
       <p className="mt-2 text-center text-sm text-stone-600 dark:text-stone-400">
-        Build multi-tenant applications with custom domains. <br />
+        Khởi tạo tên miền shop kinh doanh ngay! <br />
         <a
           className="font-medium text-black hover:text-stone-800 dark:text-stone-300 dark:hover:text-stone-100"
-          href="https://vercel.com/blog/platforms-starter-kit"
+          href="https://app.doop.vn/blog/huong-dan-tai-khoan"
           rel="noreferrer"
           target="_blank"
         >
-          Read the announcement.
+          Tìm hiểu thêm.
         </a>
       </p>
 
